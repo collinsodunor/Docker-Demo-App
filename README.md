@@ -27,5 +27,5 @@ Follow Us:
 
 GitHub: https://github.com/iQuan
 
-Instagram: https://www.instagram.com/iqua
+Instagram: https://www.instagram.com/collins
 
