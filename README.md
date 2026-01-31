@@ -25,8 +25,8 @@ Disclaimer: Video is made for educational purposes
 
 Follow Us:
 
-GitHub: https://github.com/iQuantC
+GitHub: https://github.com/iQuan
 
-Instagram: https://www.instagram.com/iquantconsult/
+Instagram: https://www.instagram.com/iqua
 
-Happy coding! 🎉
+Happy codin  nfhfh
