@@ -6,7 +6,7 @@ RUN yarn install --production
 COPY src ./src
 COPY spec ./spec
 
-# Production stage;
+# Production stage:
 FROM node:13-alpine
 WORKDIR /app
 COPY --from=build /app/node_modules ./node_modules
